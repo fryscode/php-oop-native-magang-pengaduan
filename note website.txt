@@ -1,0 +1,22 @@
+=====================
+Admin
+username = P2TP2A001 
+password = 1 
+=====================
+Petugas
+username = P2TP2A002 
+password = 1
+=====================
+pengaturan koneksi database ada di /class/ClassAkses.php
+database import sudah terlampir (p2tp2a.sql)
+========================================================
+pengaturan notifikasi petugas ada di /petugas/fecth.php
+sesuaikan koneksi pada database anda
+========================================================
+pengaturan notifikasi admin ada di /admin/fecthadmin.php
+sesuaikan koneksi pada database anda
+========================================================
+cetak biodata ada koneksi berbeda bisa disesuaikan saat 
+instal. ada di /admin/cetak_biodata.php/ sesuaikan koneksi
+pada database anda
+========================================================
